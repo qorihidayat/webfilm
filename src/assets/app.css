@@ -1,0 +1,3 @@
+#darkmode:checked ~ label div.btn-circle{
+    @apply translate-x-4;
+}
